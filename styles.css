@@ -53,15 +53,19 @@ h1{
     .landing-cover{
         height: 60%;
     }
+
+    .logo{
+        width: 200px;
+    }
+
+    h1{
+        font-size: 3rem;
+    }
 }
 
 @media only screen and (max-width:698px){
     .nav input{
         display: none;
-    }
-
-    h1{
-        font-size: 3rem;
     }
 
     .nav .hamburger{
